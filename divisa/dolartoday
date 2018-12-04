@@ -1,3 +1,4 @@
 Repositorio con analisis en R de dolartoday
 
-Contiene archivo de R, datos extraidos de la página y archivo de datos en forma de csv. Es importante que la fecha este como valor y no como un string
+Contiene archivo de R, datos extraidos de la página y archivo de datos en forma de csv. 
+Es importante que la fecha en los datos este como valor y no como un string.
